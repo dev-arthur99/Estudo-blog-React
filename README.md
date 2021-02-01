@@ -15,6 +15,6 @@ npm install
 npm start
 ```
 3) Abra outro terminal no mesmo diretório e rode o JSON Server na porta 8000
-``````
+```
 npx json-server --watch data/db.json --port 8000
 ```
